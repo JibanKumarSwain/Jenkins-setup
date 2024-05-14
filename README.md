@@ -82,19 +82,19 @@ pipeline {
         stage('Copy the code') {
             steps {
                 echo 'code is comde'
-                git uri: "add there your git repo url", branch: "main/master"
+                git uri: "add there your git repo url", branch: "main/master"       "this is a example line "
             }
         }
         stage('Installing the all requerments') {
             steps {
                 echo 'Install the all reruerments of Server'
-                sh "python3 -m pip install -r requirements.txt"      "this is a example line "
+                sh "python3 -m pip install -r requirements.txt"                     "this is a example line "
             }
         }
         stage('deploy thhe code in server') {
             steps {
                 echo 'Deploy the code'
-                sh "python3 -m streamlit run App.py"             "this is a example line"
+                sh "python3 -m streamlit run App.py"                                 "this is a example line"
             }
         }
     }
