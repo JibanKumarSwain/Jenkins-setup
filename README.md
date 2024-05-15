@@ -12,7 +12,7 @@ During create the the ec2 instance setup the SG (security group) and open the po
 
 ## sudo su -    
 ## sudo  apt-get update      
-
+     
 And Lunch the server and Update the server
 
 ## step -4
