@@ -37,7 +37,7 @@ Add Jenkins Repository Key and Source
 
 ## step -7
 
-## sudo systemctl start jenkins
+## sudo systemctl start jenkins    
 ## sudo systemctl status jenkins
 
 Start the jenkins server and  check the status 
