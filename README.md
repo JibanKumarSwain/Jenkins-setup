@@ -23,7 +23,7 @@ And Lunch the server and Update the server
 After update the server now we need to install java on the server 
 
 ## step -5    
-
+    
 ## sudo apt install jenkins
 
 Now we install the  jenkins 
