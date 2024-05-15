@@ -18,7 +18,7 @@ And Lunch the server and Update the server
 ## step -4
 
 
-## sudo apt install default-jre
+## sudo apt install default-jre   
 
 After update the server now we need to install java on the server 
 
