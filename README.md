@@ -2,7 +2,7 @@
 # Jenkins-setup                 
 
 ## step -1                     
-Lunch the EC2 instance "Amazon Linux, Ubuntu"                   
+Lunch the EC2 instance "Amazon Linux, Ubuntu"                        
            
 ## step -2            
 During create the the ec2 instance setup the SG (security group) and open the port 8080 (this port use for the jenkins)
