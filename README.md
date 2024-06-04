@@ -1,5 +1,5 @@
                 
-# Jenkins-setup                 
+# Jenkins-setup                          
 
 ## step -1                     
 Lunch the EC2 instance "Amazon Linux, Ubuntu"                                     
